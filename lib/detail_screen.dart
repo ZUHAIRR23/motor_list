@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:skl_1/model/data_kendaraan.dart';
 
 class DetailScreen extends StatelessWidget {
-  const DetailScreen({super.key, required this.dataKendaraan});
+  DetailScreen({super.key, required this.dataKendaraan});
 
   final DataKendaraan dataKendaraan;
 
@@ -43,7 +43,7 @@ class DetailScreen extends StatelessWidget {
               children: <Widget>[
                 ClipRRect(
                   borderRadius:
-                      BorderRadius.vertical(bottom: Radius.circular(20)),
+                  BorderRadius.vertical(bottom: Radius.circular(20)),
                   child: Image.asset(dataKendaraan.gambar),
                 ),
                 Padding(
@@ -87,10 +87,10 @@ class DetailScreen extends StatelessWidget {
                               mainAxisSize: MainAxisSize.min,
                               children: List.generate(
                                 5, // Total jumlah bintang
-                                (index) {
+                                    (index) {
                                   // Konversi rating dari String ke int jika perlu
                                   int rating = int.tryParse(
-                                          dataKendaraan.rating.toString()) ??
+                                      dataKendaraan.rating.toString()) ??
                                       0;
                                   return Icon(
                                     index < rating
@@ -165,9 +165,18 @@ class DetailScreen extends StatelessWidget {
                 ),
                 SizedBox(
                   height: 150,
-                  child: ListView(
+                  child: ListView.builder(
                     scrollDirection: Axis.horizontal,
-                    children: _buildGallery(),
+                    itemCount: dataKendaraan.urlGambar.length,
+                    itemBuilder: (context, index) {
+                      return Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: ClipRRect(
+                          borderRadius: BorderRadius.circular(15),
+                          child: Image.network(dataKendaraan.urlGambar[index]),
+                        ),
+                      );
+                    },
                   ),
                 ),
                 SizedBox(height: 20),
@@ -203,24 +212,5 @@ class DetailScreen extends StatelessWidget {
         ),
       ),
     );
-  }
-
-  List<Widget> _buildGallery() {
-    List<String> galleryImages = [
-      'assets/images/vespa.jpg',
-      'assets/images/classic.jpg',
-      'assets/images/zx.jpg'
-    ];
-    return galleryImages
-        .map(
-          (image) => Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: ClipRRect(
-              borderRadius: BorderRadius.circular(15),
-              child: Image.asset(image),
-            ),
-          ),
-        )
-        .toList();
   }
 }

@@ -38,8 +38,9 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
       nama: 'Vespa',
@@ -53,8 +54,9 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
       nama: 'ZX',
@@ -68,8 +70,9 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
       nama: 'Vespa',
@@ -83,8 +86,9 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
       nama: 'Classic',
@@ -98,8 +102,9 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
       nama: 'ZX',
@@ -113,8 +118,9 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
       nama: 'Classic',
@@ -128,8 +134,9 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
       nama: 'Vespa',
@@ -143,8 +150,9 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
       nama: 'ZX',
@@ -158,8 +166,9 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
       nama: 'Vespa',
@@ -173,7 +182,8 @@ var dataKendaraanList = [
       mesin: '150cc',
       tahunProduksi: '1996',
       urlGambar: [
-        'https://picsum.photos/250?image=9',
-        'https://picsum.photos/250?image=9'
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
 ];
