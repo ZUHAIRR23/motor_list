@@ -39,7 +39,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
@@ -55,7 +55,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
@@ -71,7 +71,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
@@ -87,7 +87,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
@@ -103,7 +103,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
@@ -119,7 +119,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
@@ -135,7 +135,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
@@ -151,7 +151,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
@@ -167,7 +167,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
   DataKendaraan(
@@ -183,7 +183,7 @@ var dataKendaraanList = [
       tahunProduksi: '1996',
       urlGambar: [
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
-        'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg',
+        'https://i.pinimg.com/564x/b1/11/7e/b1117ed66657b4763293b3df21b4a217.jpg',
         'https://i.pinimg.com/564x/80/25/b3/8025b30ac0e4e75dfa3b99a9303977c7.jpg'
       ]),
 ];
