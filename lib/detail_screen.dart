@@ -86,7 +86,7 @@ class DetailScreen extends StatelessWidget {
                             child: Row(
                               mainAxisSize: MainAxisSize.min,
                               children: List.generate(
-                                5, // Total jumlah bintang
+                                5, // jumlah bintang
                                     (index) {
                                   // Konversi rating dari String ke int jika perlu
                                   int rating = int.tryParse(
